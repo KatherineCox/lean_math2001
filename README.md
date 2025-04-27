@@ -1,3 +1,6 @@
+# Fork
+This is a fork of the github repo for Mechanics of Proof so that I can work through the exercises myself.
+
 # The Mechanics of Proof
 
 This repository contains the Lean code for the book [The Mechanics of Proof](https://hrmacbeth.github.io/math2001), by [Heather Macbeth](https://faculty.fordham.edu/hmacbeth1), developed for the course Math 2001 at Fordham University.
